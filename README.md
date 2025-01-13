@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcell Nagy
 - 👀 I’m interested in data science, machine learning, and network science. 
-- 🎓 I ~~'m currently a PhD student~~ defended my Ph.D. thesis and currently I am a researcher at the [Human & Social Data Science Lab](https://hsdslab.math.bme.hu/en.html) at the Budapest University of Technology and Economics.
+- 🎓 Currently I am a researcher at the [Human & Social Data Science Lab](https://hsdslab.math.bme.hu/en.html) at the Budapest University of Technology and Economics and a Medical Data Scientist at Semmelweis University.
 - 📫 email: marcell.nagy94@edu.bme.hu
 
 <!---
